@@ -34,3 +34,16 @@ def run_tests():
 
 # Edit this code
 def challenge(team1, team2):
+
+    
+    if team1 > 120 and team2 > 120:
+        print ("both teams progress")
+
+    elif team1 > team2:
+        print ("team1 progesses")
+        
+
+    elif team2 > team1:
+        print("team2 progesses")
+
+

@@ -34,5 +34,10 @@ def biggest(a, b, c):
 
     elif c >= a and c >= b:
         print (c)
+    
+    else a = b and a = c:
+        print (a, b, c)
+        
+        
         
 

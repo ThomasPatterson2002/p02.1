@@ -1,4 +1,4 @@
-"""
+!"""
 Problem:
 
      A game is played by trying to score exactly 100 points.
@@ -30,7 +30,7 @@ def hit_100(score):
         print ("Too high")
           
     elif score == 100:
-        print ("Winner")
+        print ("Winner!")
           
     else:
         print ("Too low")

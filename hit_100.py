@@ -1,4 +1,4 @@
-!"""
+
 Problem:
 
      A game is played by trying to score exactly 100 points.
@@ -15,7 +15,6 @@ Tests:
     >>> hit_100(100)
     Winner!
 
-"""
 
 # Use this to test your solution. Don't edit it!
 import doctest

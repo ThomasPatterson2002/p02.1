@@ -1,4 +1,4 @@
-"""
+ 
 Problem:
 
     On the TV show, University Challenge, teams compete against each other
@@ -40,10 +40,10 @@ def challenge(team1, team2):
         print ("both teams progress")
 
     elif team1 > team2:
-        print ("team1 progesses")
+        print ("Team 1 progesses")
         
 
     elif team2 > team1:
-        print("team2 progesses")
+        print("Team 2 progesses")
 
 

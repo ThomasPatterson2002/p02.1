@@ -1,4 +1,4 @@
-"""
+F"""
 Problem:
 
     FizzBuzz is a counting game. Players take turns counting the next number
@@ -34,13 +34,13 @@ def run_tests():
 def fizzbuzz(n):
 
     if n % 3 == 0  and n % 5 == 0:
-        print("fizzbuzz")
+        print("FizzBuzz")
 
     elif n % 3 == 0:
-        print("fizz")
+        print("Fizz")
 
     elif n % 5 == 0:
-        print("buzz")
+        print("Buzz")
               
 
     else:
